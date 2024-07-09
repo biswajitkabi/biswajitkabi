@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**biswajitkabi/biswajitkabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on as Full Stack Blockchain Developer<br>👯 I’m looking to collaborate on Projects related to Blockchain or Web Development<br>🤝 I’m looking for help with the Backend<br>🌱 I’m currently learning Three.js<br>💬 Ask me about Blockchain or web dev<br>
 
