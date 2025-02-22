@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on as Full Stack Blockchain Developer<br>👯 I’m looking to collaborate on Projects related to Blockchain or Web Development<br>🤝 I’m looking for help with the Backend<br>🌱 I’m currently learning Three.js<br>💬 Ask me about Blockchain or web dev<br>
+🔭 I’m currently working on as Full Stack  Developer<br>👯 I’m looking to collaborate on Projects related to Blockchain or Web Development<br>🤝 I’m looking for help with the Backend<br>🌱 I’m currently learning Three.js<br>💬 Ask me about Blockchain or web dev<br>
 
 
 ## 🌐 Socials:
