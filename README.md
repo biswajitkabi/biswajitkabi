@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Biswajit Kabi 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;DevOps+Enthusiast;Actively+seeking+SWE+and+Full-Stack+Intern+Roles;Love+to+build+cool+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00ADB5&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;DevOps+Enthusiast;Actively+seeking+SWE+or+Full-Stack+Intern+Roles;Love+to+build+cool+things)](https://git.io/typing-svg)
 
 📧 biswajitkabi.dev@gmail.com
 🔗 [Portfolio](https://biswajitkabi.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/biswajit-kabi) • [GitHub](https://github.com/biswajitkabi) • [Twitter](https://x.com/biswajitkabi_7)
